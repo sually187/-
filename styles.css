@@ -1,0 +1,27 @@
+.person {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.person img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.person h3 {
+    margin: 0;
+}
+
+.person p {
+    margin: 5px 0;
+}
+
+.personDetails {
+    display: none;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
